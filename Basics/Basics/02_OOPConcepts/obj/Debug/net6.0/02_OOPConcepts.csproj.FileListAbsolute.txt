@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\bin\Debug\net6.0\02_OOPConcepts.exe
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\bin\Debug\net6.0\02_OOPConcepts.deps.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\bin\Debug\net6.0\02_OOPConcepts.runtimeconfig.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\bin\Debug\net6.0\02_OOPConcepts.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\bin\Debug\net6.0\02_OOPConcepts.pdb
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.AssemblyInfo.cs
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.sourcelink.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\refint\02_OOPConcepts.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.pdb
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\02_OOPConcepts.genruntimeconfig.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\02_OOPConcepts\obj\Debug\net6.0\ref\02_OOPConcepts.dll

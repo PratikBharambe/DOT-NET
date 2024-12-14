@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\bin\Debug\net6.0\01_BasicDatatypes.exe
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\bin\Debug\net6.0\01_BasicDatatypes.deps.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\bin\Debug\net6.0\01_BasicDatatypes.runtimeconfig.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\bin\Debug\net6.0\01_BasicDatatypes.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\bin\Debug\net6.0\01_BasicDatatypes.pdb
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.AssemblyInfo.cs
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.sourcelink.json
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\refint\01_BasicDatatypes.dll
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.pdb
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\01_BasicDatatypes.genruntimeconfig.cache
+C:\Users\IET\Desktop\New folder\New Folder\.Net\Solutions_Dot_Net\01_BasicDatatypes\obj\Debug\net6.0\ref\01_BasicDatatypes.dll
