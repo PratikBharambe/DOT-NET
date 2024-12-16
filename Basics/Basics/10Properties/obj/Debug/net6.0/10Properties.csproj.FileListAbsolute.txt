@@ -1,0 +1,15 @@
+D:\IET\MS Dot Net\Basics\Basics\10Properties\bin\Debug\net6.0\10Properties.exe
+D:\IET\MS Dot Net\Basics\Basics\10Properties\bin\Debug\net6.0\10Properties.deps.json
+D:\IET\MS Dot Net\Basics\Basics\10Properties\bin\Debug\net6.0\10Properties.runtimeconfig.json
+D:\IET\MS Dot Net\Basics\Basics\10Properties\bin\Debug\net6.0\10Properties.dll
+D:\IET\MS Dot Net\Basics\Basics\10Properties\bin\Debug\net6.0\10Properties.pdb
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.AssemblyInfoInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.AssemblyInfo.cs
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.csproj.CoreCompileInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.sourcelink.json
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.dll
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\refint\10Properties.dll
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.pdb
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\10Properties.genruntimeconfig.cache
+D:\IET\MS Dot Net\Basics\Basics\10Properties\obj\Debug\net6.0\ref\10Properties.dll

@@ -1,0 +1,15 @@
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\bin\Debug\net6.0\12Delegate.exe
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\bin\Debug\net6.0\12Delegate.deps.json
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\bin\Debug\net6.0\12Delegate.runtimeconfig.json
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\bin\Debug\net6.0\12Delegate.dll
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\bin\Debug\net6.0\12Delegate.pdb
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfoInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfo.cs
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.csproj.CoreCompileInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.sourcelink.json
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.dll
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\refint\12Delegate.dll
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.pdb
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\12Delegate.genruntimeconfig.cache
+D:\IET\MS Dot Net\Basics\Basics\12Delegate\obj\Debug\net6.0\ref\12Delegate.dll

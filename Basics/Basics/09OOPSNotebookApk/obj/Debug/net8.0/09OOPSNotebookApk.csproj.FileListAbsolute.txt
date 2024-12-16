@@ -1,0 +1,15 @@
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.AssemblyInfoInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.AssemblyInfo.cs
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.csproj.CoreCompileInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.sourcelink.json
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\bin\Debug\net8.0\09OOPSNotebookApk.exe
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\bin\Debug\net8.0\09OOPSNotebookApk.deps.json
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\bin\Debug\net8.0\09OOPSNotebookApk.runtimeconfig.json
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\bin\Debug\net8.0\09OOPSNotebookApk.dll
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\bin\Debug\net8.0\09OOPSNotebookApk.pdb
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.dll
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\refint\09OOPSNotebookApk.dll
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.pdb
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\09OOPSNotebookApk.genruntimeconfig.cache
+D:\IET\MS Dot Net\Basics\Basics\09OOPSNotebookApk\obj\Debug\net8.0\ref\09OOPSNotebookApk.dll

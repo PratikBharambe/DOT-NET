@@ -12,3 +12,18 @@ C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\08OOPLogger\obj\Debug\net6.0\r
 C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.pdb
 C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.genruntimeconfig.cache
 C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\08OOPLogger\obj\Debug\net6.0\ref\08OOPLogger.dll
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\bin\Debug\net6.0\08OOPLogger.exe
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\bin\Debug\net6.0\08OOPLogger.deps.json
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\bin\Debug\net6.0\08OOPLogger.runtimeconfig.json
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\bin\Debug\net6.0\08OOPLogger.dll
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\bin\Debug\net6.0\08OOPLogger.pdb
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.AssemblyInfoInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.AssemblyInfo.cs
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.csproj.CoreCompileInputs.cache
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.sourcelink.json
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.dll
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\refint\08OOPLogger.dll
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.pdb
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\08OOPLogger.genruntimeconfig.cache
+D:\IET\MS Dot Net\Basics\Basics\08OOPLogger\obj\Debug\net6.0\ref\08OOPLogger.dll
