@@ -1,77 +1,73 @@
 ﻿namespace _12Delegate
+
+
 {
 
     public delegate void MyDelegate();
-    public delegate void MyDelegate1(String name);
-    public delegate string MyDelegate2();
-
+    public delegate void MyDelegate1(string str);
+    public delegate String MyDelegate2();
     internal class Program
     {
         static void Main(string[] args)
         {
-            MyDelegate del = new MyDelegate(sayHi);
-            del.Invoke();
-            MyDelegate1 del1 = new MyDelegate1(sayHi);
-            del1.Invoke("Pratik Bharambe");
-
             AnnualFunction obj = new AnnualFunction();
-            MyDelegate annualDelegate = new MyDelegate(obj.func1);
-            annualDelegate += obj.func2;
-            annualDelegate += obj.func3; // coupling operator
-
-            Console.WriteLine("should we Procced for celebrity : ");
+            //dek is a multicast delegate
+            MyDelegate del = new MyDelegate(obj.Func1);
+            del += obj.Func2; // coupling operator
+            del += obj.Func3;
+            del += obj.Func4;
+            Console.WriteLine("Should We Proceed For Celebrity--");
             bool isProceed = Convert.ToBoolean(Console.ReadLine());
-            if (isProceed)
-            {
-                annualDelegate -= obj.func3; //de-coupling operator
+            if (isProceed) {
+                del -= obj.Func3; //decoupling operator
             }
 
-            annualDelegate();
-
-            Console.WriteLine(".............. after some time ..............");
-            MyDelegate del2 = new MyDelegate(obj.func4);
+            del();
+            Console.WriteLine("---after sometime---");
+            MyDelegate del2 = new MyDelegate(obj.Func4);
             del2();
 
-            MyDelegate2 delObj = new MyDelegate2(obj.func5);
+            MyDelegate2 delObj = new MyDelegate2(obj.Func5);
             string msg = delObj();
             Console.WriteLine(msg);
 
-
         }
-
-        public static void sayHi()
+        public static void SayHi()
         {
             Console.WriteLine("Hello!");
         }
-        public static void sayHi(string name)
+        public static void SayHi(string name)
         {
             Console.WriteLine("Hello {0}", name);
         }
-
     }
 
     public class AnnualFunction
     {
-        public void func1()
+        public void Func1()
         {
-            Console.WriteLine("Welcome speech.");
+            Console.WriteLine("Wel-come Speech");
         }
-        public void func2()
+
+        public void Func2()
         {
-            Console.WriteLine("Guest speech.");
+            Console.WriteLine("Guest Speech");
+
         }
-        public void func3()
+
+        public void Func3()
         {
-            Console.WriteLine("Invite all for dinner party.");
+            Console.WriteLine("Invite all for dinner");
         }
-        public void func4()
+
+        public void Func4()
         {
-            Console.WriteLine("pack up.");
+            Console.WriteLine("Pack up..!");
         }
-        public string func5()
+
+        public String Func5()
         {
-            return "Bye! Good Night everyone.";
+            return "Bye Bye Goodnight Everyone.";
         }
     }
-
 }

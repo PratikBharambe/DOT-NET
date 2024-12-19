@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\bin\Debug\net6.0\GenericConcepts.exe
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\bin\Debug\net6.0\GenericConcepts.deps.json
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\bin\Debug\net6.0\GenericConcepts.runtimeconfig.json
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\bin\Debug\net6.0\GenericConcepts.dll
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\bin\Debug\net6.0\GenericConcepts.pdb
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.AssemblyInfo.cs
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.sourcelink.json
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.dll
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\refint\GenericConcepts.dll
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.pdb
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\GenericConcepts.genruntimeconfig.cache
+C:\Users\IET\Desktop\Vikram&yash\CSharp\GenericConcepts\obj\Debug\net6.0\ref\GenericConcepts.dll

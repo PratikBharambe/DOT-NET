@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "INCx2wz2KmY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\17HostApp\\17HostApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\MyLib\\MyLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\MyLib\\MyLib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

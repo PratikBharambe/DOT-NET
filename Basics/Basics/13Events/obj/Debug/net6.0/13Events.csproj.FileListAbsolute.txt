@@ -1,15 +1,14 @@
-D:\IET\MS Dot Net\Basics\Basics\13Events\bin\Debug\net6.0\13Events.exe
-D:\IET\MS Dot Net\Basics\Basics\13Events\bin\Debug\net6.0\13Events.deps.json
-D:\IET\MS Dot Net\Basics\Basics\13Events\bin\Debug\net6.0\13Events.runtimeconfig.json
-D:\IET\MS Dot Net\Basics\Basics\13Events\bin\Debug\net6.0\13Events.dll
-D:\IET\MS Dot Net\Basics\Basics\13Events\bin\Debug\net6.0\13Events.pdb
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.GeneratedMSBuildEditorConfig.editorconfig
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.AssemblyInfoInputs.cache
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.AssemblyInfo.cs
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.csproj.CoreCompileInputs.cache
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.sourcelink.json
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.dll
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\refint\13Events.dll
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.pdb
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\13Events.genruntimeconfig.cache
-D:\IET\MS Dot Net\Basics\Basics\13Events\obj\Debug\net6.0\ref\13Events.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\bin\Debug\net6.0\13Events.exe
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\bin\Debug\net6.0\13Events.deps.json
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\bin\Debug\net6.0\13Events.runtimeconfig.json
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\bin\Debug\net6.0\13Events.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\bin\Debug\net6.0\13Events.pdb
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.AssemblyInfo.cs
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\refint\13Events.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.pdb
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\13Events.genruntimeconfig.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\Basics\Basics\13Events\obj\Debug\net6.0\ref\13Events.dll

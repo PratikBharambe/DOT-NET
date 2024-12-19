@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "24CustomAttributeCompany/1.0.0": {
+        "dependencies": {
+          "22ComapanyLib": "1.0.0"
+        },
+        "runtime": {
+          "24CustomAttributeCompany.dll": {}
+        }
+      },
+      "22ComapanyLib/1.0.0": {
+        "runtime": {
+          "22ComapanyLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "24CustomAttributeCompany/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "22ComapanyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

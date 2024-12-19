@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}|27MySqlQuery\\27MySqlQuery.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\basics\\27mysqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}|27MySqlQuery\\27MySqlQuery.csproj|solutionrelative:27mysqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6622D6A-EE5F-4922-BBCF-9F4FD53380E8}|26EmployeeLib\\26EmployeeLib.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\basics\\26employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6622D6A-EE5F-4922-BBCF-9F4FD53380E8}|26EmployeeLib\\26EmployeeLib.csproj|solutionrelative:26employeelib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B247AC-46AB-45BC-9E83-B1B508D89782}|25DBAttributeLib\\25DBAttributeLib.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\basics\\25dbattributelib\\dbattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B247AC-46AB-45BC-9E83-B1B508D89782}|25DBAttributeLib\\25DBAttributeLib.csproj|solutionrelative:25dbattributelib\\dbattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B247AC-46AB-45BC-9E83-B1B508D89782}|25DBAttributeLib\\25DBAttributeLib.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\basics\\25dbattributelib\\25dbattributelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85B247AC-46AB-45BC-9E83-B1B508D89782}|25DBAttributeLib\\25DBAttributeLib.csproj|solutionrelative:25dbattributelib\\25dbattributelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "25DBAttributeLib",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\25DBAttributeLib\\25DBAttributeLib.csproj",
+              "RelativeDocumentMoniker": "25DBAttributeLib\\25DBAttributeLib.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\25DBAttributeLib\\25DBAttributeLib.csproj",
+              "RelativeToolTip": "25DBAttributeLib\\25DBAttributeLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T23:57:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\27MySqlQuery\\Program.cs",
+              "RelativeDocumentMoniker": "27MySqlQuery\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\27MySqlQuery\\Program.cs",
+              "RelativeToolTip": "27MySqlQuery\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:01:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\26EmployeeLib\\Employee.cs",
+              "RelativeDocumentMoniker": "26EmployeeLib\\Employee.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\26EmployeeLib\\Employee.cs",
+              "RelativeToolTip": "26EmployeeLib\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:51:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\25DBAttributeLib\\DBAttribute.cs",
+              "RelativeDocumentMoniker": "25DBAttributeLib\\DBAttribute.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Basics\\25DBAttributeLib\\DBAttribute.cs",
+              "RelativeToolTip": "25DBAttributeLib\\DBAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:46:31.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
