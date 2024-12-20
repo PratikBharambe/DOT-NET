@@ -1,8 +1,5 @@
 ﻿
 using System.Collections;
-using System.Numerics;
-using System.Runtime.CompilerServices;
-using System.Security;
 
 namespace _28CSharpDemos
 {
@@ -216,44 +213,60 @@ namespace _28CSharpDemos
             #endregion
 
             #region Extension Methods
+            ////MyClass mc = new MyClass();
+            //string str = "ab@cd.com";
+            ////bool result = mc.checkForValidEmail(str);
+            //bool result = str.checkForValidEmail();
+            //if (result)
+            //{
+            //    Console.WriteLine("Email Validation Successfully.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Please check email id given.");
+            //}
 
-            //MyClass mc = new MyClass();
-            string str = "ab@cd.com";
-            //bool result = mc.checkForValidEmail(str);
-            bool result = str.checkForValidEmail();
-            if (result)
-            {
-                Console.WriteLine("Email Validation Successfully.");
-            }
-            else
-            {
-                Console.WriteLine("Please check email id given.");
-            }
+            //int[] arr = { 1, 2, 3, 4, 5, 6 };
+            //List<int> list = arr.MapToList();
+            //foreach (int data in list)
+            //{
+            //    Console.WriteLine(data);
+            //}
+            #endregion
 
-            int[] arr = { 1, 2, 3, 4, 5, 6 };
-            List<int> list = arr.MapToList();
-            foreach (int data in list)
-            {
-                Console.WriteLine(data);
-            }
+            #region Partial Methods
+            //Person person = new Person();
+            //person.Id = 120;
+            //person.Name = "Jack";
+            #endregion
 
+            #region Name & Optional Parameter
+            Display(10, "Test Demo", "City");
+            Display(10);
             #endregion
 
         }
         #endregion
 
-        #region GetMeSomething method defination for testing Imlicite type
-        public static object GetMeSomething(int choice)
+        #region Dislpay Method for Name and optional properties
+        public static void Display(int id, string name = "Pratik Bharambe", string address = "Kund Khurd")
         {
-            if (choice > 10)
-            {
-                return choice * 10;
-            }
-            else
-            {
-                return new Emp();
-            }
+            Console.WriteLine($"ID : {id} Name : {name} Address : {address}");
         } 
+        #endregion
+
+        #region GetMeSomething method defination for testing Imlicite type
+        //public static object GetMeSomething(int choice)
+        //{
+        //    if (choice > 10)
+        //    {
+        //        return choice * 10;
+        //    }
+        //    else
+        //    {
+        //        return new Emp();
+        //    }
+        //} 
         #endregion
 
         #region Check Method for testing anonymous method
@@ -264,6 +277,56 @@ namespace _28CSharpDemos
         #endregion
 
     }
+
+    #region Person class defination for testing partial methods
+    public partial class Person
+    {
+        //public void DoValidate(string nameOfProperty, object value)
+        //{
+        //    switch (nameOfProperty)
+        //    {
+        //        case "Id":
+        //            ////some validation logic
+        //            break;
+        //        case "Name":
+        //            ////some validation logic
+        //            break;
+        //        default:
+        //            ////some validation logic
+        //            break;
+        //    }
+        //}
+    }
+
+    public partial class Person
+    {
+        private int _Id;
+        private string _Name;
+
+        public string Name
+        {
+            get { return _Name; }
+            set
+            {
+                DoValidate("Name", value);
+                _Name = value;
+            }
+        }
+
+        public int Id
+        {
+            get { return _Id; }
+            set
+            {
+                DoValidate("Name", value);
+                _Id = value;
+            }
+        }
+
+        partial void DoValidate(String nameOfProperty, object value);
+
+    } 
+    #endregion
 
     #region MyClass Defination
     // class for testing extension methods
@@ -279,7 +342,7 @@ namespace _28CSharpDemos
             Console.WriteLine("Inside MapToList function.");
             return arr.ToList();
         }
-    } 
+    }
     #endregion
 
     #region Student Class Defination
@@ -289,7 +352,7 @@ namespace _28CSharpDemos
         public int Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
-    } 
+    }
     #endregion
 
     #region Customer class defination
@@ -338,14 +401,14 @@ namespace _28CSharpDemos
         //} 
         #endregion
 
-    } 
+    }
     #endregion
 
     #region Weeks class Defination
     // class for testing Iterator
     public class Weeks : IEnumerable
     {
-        private string[] days = new string[] 
+        private string[] days = new string[]
         { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
 
         public IEnumerator GetEnumerator()
@@ -356,7 +419,7 @@ namespace _28CSharpDemos
                 yield return day; // yield keyword maintains last index value
             }
         }
-    } 
+    }
     #endregion
 
     #region Emp class defination
