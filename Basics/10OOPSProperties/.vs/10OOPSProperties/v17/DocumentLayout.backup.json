@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\10OOPSProperties\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A25F42D6-2BFE-4837-820C-12AF082C9F3F}|10OOPSProperties.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\10oopsproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A25F42D6-2BFE-4837-820C-12AF082C9F3F}|10OOPSProperties.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F551977C-25DE-45D0-80DF-714B53CD3B6F}|..\\C#Features\\C#Features.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\c#features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F551977C-25DE-45D0-80DF-714B53CD3B6F}|..\\C#Features\\C#Features.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\c#features\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F551977C-25DE-45D0-80DF-714B53CD3B6F}|..\\C#Features\\C#Features.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\c#features\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +19,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File2.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\File2.cs",
+              "RelativeDocumentMoniker": "..\\C#Features\\File2.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\File2.cs",
+              "RelativeToolTip": "..\\C#Features\\File2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:23:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\File1.cs",
+              "RelativeDocumentMoniker": "..\\C#Features\\File1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\File1.cs",
+              "RelativeToolTip": "..\\C#Features\\File1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:23:07.516Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\10OOPSProperties\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\10OOPSProperties\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\Program.cs",
+              "RelativeDocumentMoniker": "..\\C#Features\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\C#Features\\Program.cs*",
+              "RelativeToolTip": "..\\C#Features\\Program.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:07:39.789Z",
+              "WhenOpened": "2024-12-20T01:20:32.883Z",
               "EditorCaption": ""
             }
           ]

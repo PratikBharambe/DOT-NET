@@ -59,6 +59,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28CSharpDemos", "28CSharpDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29LINQ", "29LINQ\29LINQ.csproj", "{524A4818-DA80-4BA7-9BF5-096C270C4CB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30LINQ", "30LINQ\30LINQ.csproj", "{8A8B9067-AD91-42A2-880D-6DF3A650012D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0CED5CF-FB69-4937-8AA8-ED54589A6EBD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +298,14 @@ Global
 		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|x64.ActiveCfg = Release|Any CPU
 		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|x64.Build.0 = Release|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A8B9067-AD91-42A2-880D-6DF3A650012D}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
