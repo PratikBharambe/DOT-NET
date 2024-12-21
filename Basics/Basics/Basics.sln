@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26EmployeeLib", "26Employee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27ReflectionCreateTable", "27MySqlQuery\27ReflectionCreateTable.csproj", "{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28CSharpDemos", "28CSharpDemos\28CSharpDemos.csproj", "{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29LINQ", "29LINQ\29LINQ.csproj", "{524A4818-DA80-4BA7-9BF5-096C270C4CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +275,22 @@ Global
 		{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}.Release|x64.ActiveCfg = Release|Any CPU
 		{ACC231B1-B7F8-4DAB-9680-9F3E4C425D23}.Release|x64.Build.0 = Release|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{672DAF51-19A5-4B35-ABF7-0685D1B4B3FE}.Release|x64.Build.0 = Release|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Debug|x64.Build.0 = Debug|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|x64.ActiveCfg = Release|Any CPU
+		{524A4818-DA80-4BA7-9BF5-096C270C4CB1}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
