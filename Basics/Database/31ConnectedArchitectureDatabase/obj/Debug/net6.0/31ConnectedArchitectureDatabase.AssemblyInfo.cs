@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("31ConnectedArchitectureDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bf0b424d29ed031f7bc89993a86f72c27ed8332")]
 [assembly: System.Reflection.AssemblyProductAttribute("31ConnectedArchitectureDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("31ConnectedArchitectureDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
