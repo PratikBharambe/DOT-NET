@@ -1884,23 +1884,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {},
+    "C:\\Users\\ghans\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj",
+      "projectUniqueName": "D:\\IET\\Dot NET\\Basics\\Database\\32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj",
       "projectName": "32DIsconnectedArchitecture",
-      "projectPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\32DIsconnectedArchitecture\\obj\\",
+      "projectPath": "D:\\IET\\Dot NET\\Basics\\Database\\32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj",
+      "packagesPath": "C:\\Users\\ghans\\.nuget\\packages\\",
+      "outputPath": "D:\\IET\\Dot NET\\Basics\\Database\\32DIsconnectedArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ghans\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

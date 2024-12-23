@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ConnectedArchitectureData
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32DIsconnectedArchitecture", "32DIsconnectedArchitecture\32DIsconnectedArchitecture.csproj", "{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33ConnectedWithDataSet", "33ConnectedWithDataSet\33ConnectedWithDataSet.csproj", "{1F0ED6F7-9770-4B2A-B6E8-56FFC885D479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34EntityFramework", "34EntityFramework\34EntityFramework.csproj", "{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0ED6F7-9770-4B2A-B6E8-56FFC885D479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0ED6F7-9770-4B2A-B6E8-56FFC885D479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0ED6F7-9770-4B2A-B6E8-56FFC885D479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0ED6F7-9770-4B2A-B6E8-56FFC885D479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

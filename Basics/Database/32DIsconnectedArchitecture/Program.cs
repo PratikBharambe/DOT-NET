@@ -60,6 +60,7 @@ namespace _32DIsconnectedArchitecture
             //} 
             #endregion
 
+
             #region Disconnected Architechture delete query
             //Console.WriteLine("Enter ID : ");
             //int id = Convert.ToInt32(Console.ReadLine());
