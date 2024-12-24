@@ -1,14 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IET\\Dot NET\\Basics\\Database\\",
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92A55E72-7AE3-4E69-BF13-4AE15FBE82DF}|31ConnectedArchitectureDatabase\\31ConnectedArchitectureDatabase.csproj|d:\\iet\\dot net\\basics\\database\\31connectedarchitecturedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92A55E72-7AE3-4E69-BF13-4AE15FBE82DF}|31ConnectedArchitectureDatabase\\31ConnectedArchitectureDatabase.csproj|solutionrelative:31connectedarchitecturedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}|32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\32disconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EFDDF1-28CB-4F51-8575-40ACA3CA3B50}|32DIsconnectedArchitecture\\32DIsconnectedArchitecture.csproj|solutionrelative:32disconnectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92A55E72-7AE3-4E69-BF13-4AE15FBE82DF}|31ConnectedArchitectureDatabase\\31ConnectedArchitectureDatabase.csproj|d:\\iet\\dot net\\basics\\database\\31connectedarchitecturedatabase\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92A55E72-7AE3-4E69-BF13-4AE15FBE82DF}|31ConnectedArchitectureDatabase\\31ConnectedArchitectureDatabase.csproj|solutionrelative:31connectedarchitecturedatabase\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Test/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +26,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestDbContext.cs",
-              "DocumentMoniker": "D:\\IET\\Dot NET\\Basics\\Database\\31ConnectedArchitectureDatabase\\DAL\\TestDbContext.cs",
-              "RelativeDocumentMoniker": "31ConnectedArchitectureDatabase\\DAL\\TestDbContext.cs",
-              "ToolTip": "D:\\IET\\Dot NET\\Basics\\Database\\31ConnectedArchitectureDatabase\\DAL\\TestDbContext.cs",
-              "RelativeToolTip": "31ConnectedArchitectureDatabase\\DAL\\TestDbContext.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAhwF0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T04:02:35.547Z",
+              "Title": "dbo.Employee [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Test/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "dbo.Employee [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-23T23:26:33.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IET\\Dot NET\\Basics\\Database\\31ConnectedArchitectureDatabase\\Program.cs",
-              "RelativeDocumentMoniker": "31ConnectedArchitectureDatabase\\Program.cs",
-              "ToolTip": "D:\\IET\\Dot NET\\Basics\\Database\\31ConnectedArchitectureDatabase\\Program.cs",
-              "RelativeToolTip": "31ConnectedArchitectureDatabase\\Program.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAQwKIAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\32DIsconnectedArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "32DIsconnectedArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\32DIsconnectedArchitecture\\Program.cs",
+              "RelativeToolTip": "32DIsconnectedArchitecture\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:47:45.35Z",
+              "WhenOpened": "2024-12-23T23:24:01.972Z",
               "EditorCaption": ""
             }
           ]
