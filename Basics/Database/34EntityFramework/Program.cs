@@ -12,11 +12,13 @@ namespace _34EntityFramework
             int choice = 0;
             do
             {
-                Console.WriteLine("1. Select");
-                Console.WriteLine("2. Insert");
-                Console.WriteLine("3. Update");
-                Console.WriteLine("4. Delete");
-                Console.WriteLine("5. Exit");
+                Console.WriteLine("1. Get all employee details.");
+                Console.WriteLine("2. Add new employee.");
+                Console.WriteLine("3. Update emplyee deatls.");
+                Console.WriteLine("4. Delete employee.");
+                Console.WriteLine("5. Get employee by id by calling stored procedure.");
+                Console.WriteLine("6. Get employee details who's address starts with character.");
+                Console.WriteLine("7. Exit");
                 Console.WriteLine("Enter your choice : ");
                 choice = Convert.ToInt32(Console.ReadLine());
 
@@ -106,6 +108,39 @@ namespace _34EntityFramework
                         break;
 
                     case 5:
+                        Console.WriteLine("Enter employee id : ");
+                        id = Convert.ToInt32(Console.ReadLine());
+                        Employee emp = testDbContext.GetEmployeeById(id);
+                        if (emp != null)
+                        {
+                            Console.WriteLine($"Id : {emp.Id}, Name : {emp.Name}, Address : {emp.Address}");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Employee with {id} is not preset.");
+                        }
+                        break;
+
+                    case 6:
+                        Console.WriteLine("Enter the first letter of address of employees : ");
+                        string? firstLetter = Console.ReadLine();
+                        if (firstLetter != null)
+                        {
+                            List<Employee> empList = testDbContext.GetEmployeesByAddressStartsWith(firstLetter);
+                            if(empList != null)
+                            {
+                                empList.ForEach(emp => Console.WriteLine($"Id : {emp.Id}, Name : {emp.Name}, Address : {emp.Address}"));
+                            }else
+                            {
+                                Console.WriteLine($"There is no employee who's address starts with '{firstLetter}'");
+                            }
+                        }else
+                        {
+                            Console.WriteLine("Please enter first letter.");
+                        }
+                        break;
+
+                    case 7:
                         Console.WriteLine("Thanks for visiting ..............\nBye Bye");
                         break;
 
@@ -114,7 +149,7 @@ namespace _34EntityFramework
                         break;
                 }
             }
-            while (choice != 5);
+            while (choice != 7);
         }
     }
 }
