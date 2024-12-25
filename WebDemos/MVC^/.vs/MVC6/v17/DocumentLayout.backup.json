@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\appsettings.json",
+              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\appsettings.json",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T04:05:20.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Program.cs",
+              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Program.cs",
+              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:05:14.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
