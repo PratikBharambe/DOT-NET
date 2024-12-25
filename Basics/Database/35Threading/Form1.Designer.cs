@@ -38,28 +38,32 @@
             // 
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 17;
-            this.listBox1.Location = new System.Drawing.Point(23, 12);
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(31, 15);
+            this.listBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(155, 276);
+            this.listBox1.Size = new System.Drawing.Size(205, 324);
             this.listBox1.TabIndex = 0;
             // 
             // listBox2
             // 
-            this.listBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.listBox2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.listBox2.Font = new System.Drawing.Font("Myanmar Text", 13.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 17;
-            this.listBox2.Location = new System.Drawing.Point(405, 12);
+            this.listBox2.ItemHeight = 41;
+            this.listBox2.Location = new System.Drawing.Point(540, 15);
+            this.listBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(155, 276);
+            this.listBox2.Size = new System.Drawing.Size(205, 332);
             this.listBox2.TabIndex = 1;
             // 
             // btnStartT1
             // 
             this.btnStartT1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F);
-            this.btnStartT1.Location = new System.Drawing.Point(227, 12);
+            this.btnStartT1.Location = new System.Drawing.Point(303, 15);
+            this.btnStartT1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnStartT1.Name = "btnStartT1";
-            this.btnStartT1.Size = new System.Drawing.Size(128, 31);
+            this.btnStartT1.Size = new System.Drawing.Size(171, 38);
             this.btnStartT1.TabIndex = 2;
             this.btnStartT1.Text = "Start T1";
             this.btnStartT1.UseVisualStyleBackColor = true;
@@ -68,9 +72,10 @@
             // btnStartT2
             // 
             this.btnStartT2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F);
-            this.btnStartT2.Location = new System.Drawing.Point(227, 58);
+            this.btnStartT2.Location = new System.Drawing.Point(303, 71);
+            this.btnStartT2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnStartT2.Name = "btnStartT2";
-            this.btnStartT2.Size = new System.Drawing.Size(128, 31);
+            this.btnStartT2.Size = new System.Drawing.Size(171, 38);
             this.btnStartT2.TabIndex = 3;
             this.btnStartT2.Text = "Start T2";
             this.btnStartT2.UseVisualStyleBackColor = true;
@@ -78,13 +83,14 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(616, 407);
+            this.ClientSize = new System.Drawing.Size(821, 501);
             this.Controls.Add(this.btnStartT2);
             this.Controls.Add(this.btnStartT1);
             this.Controls.Add(this.listBox2);
             this.Controls.Add(this.listBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

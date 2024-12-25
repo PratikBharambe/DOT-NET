@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\",
+  "WorkspaceRootPath": "D:\\IET\\MS DOT NET\\Basics\\Database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44409CD3-7D09-4B5B-9830-BFE81F60065D}|36Threading\\36Threading.csproj|d:\\iet\\ms dot net\\basics\\database\\36threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44409CD3-7D09-4B5B-9830-BFE81F60065D}|36Threading\\36Threading.csproj|solutionrelative:36threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeToolTip": "35Threading\\Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAADwvysAAAAuAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS DOT NET\\Basics\\Database\\36Threading\\Program.cs",
+              "RelativeDocumentMoniker": "36Threading\\Program.cs",
+              "ToolTip": "D:\\IET\\MS DOT NET\\Basics\\Database\\36Threading\\Program.cs",
+              "RelativeToolTip": "36Threading\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAIQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:52:33.526Z",
+              "WhenOpened": "2024-12-25T02:41:55.877Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs [Design]",
-              "RelativeToolTip": "35Threading\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:48:52.349Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

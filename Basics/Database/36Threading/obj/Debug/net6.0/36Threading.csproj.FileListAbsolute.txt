@@ -1,0 +1,15 @@
+D:\IET\MS DOT NET\Basics\Database\36Threading\bin\Debug\net6.0\36Threading.exe
+D:\IET\MS DOT NET\Basics\Database\36Threading\bin\Debug\net6.0\36Threading.deps.json
+D:\IET\MS DOT NET\Basics\Database\36Threading\bin\Debug\net6.0\36Threading.runtimeconfig.json
+D:\IET\MS DOT NET\Basics\Database\36Threading\bin\Debug\net6.0\36Threading.dll
+D:\IET\MS DOT NET\Basics\Database\36Threading\bin\Debug\net6.0\36Threading.pdb
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.AssemblyInfoInputs.cache
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.AssemblyInfo.cs
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.csproj.CoreCompileInputs.cache
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.sourcelink.json
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.dll
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\refint\36Threading.dll
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.pdb
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\36Threading.genruntimeconfig.cache
+D:\IET\MS DOT NET\Basics\Database\36Threading\obj\Debug\net6.0\ref\36Threading.dll

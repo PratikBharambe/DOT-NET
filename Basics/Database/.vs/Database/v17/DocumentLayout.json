@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\IET\\MS DOT NET\\Basics\\Database\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeToolTip": "35Threading\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:52:33.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
-              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs [Design]",
-              "RelativeToolTip": "35Threading\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T23:48:52.349Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

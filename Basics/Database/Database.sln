@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34EntityFramework", "34Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Threading", "35Threading\35Threading.csproj", "{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36Threading", "36Threading\36Threading.csproj", "{44409CD3-7D09-4B5B-9830-BFE81F60065D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44409CD3-7D09-4B5B-9830-BFE81F60065D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44409CD3-7D09-4B5B-9830-BFE81F60065D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44409CD3-7D09-4B5B-9830-BFE81F60065D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44409CD3-7D09-4B5B-9830-BFE81F60065D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
