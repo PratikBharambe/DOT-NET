@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33ConnectedWithDataSet", "3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34EntityFramework", "34EntityFramework\34EntityFramework.csproj", "{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Threading", "35Threading\35Threading.csproj", "{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

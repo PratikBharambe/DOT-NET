@@ -3,27 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\34entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\34entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\34entityframework\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\34entityframework\\migrations\\20241224225511_addemployeestoredprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\migrations\\20241224225511_addemployeestoredprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Test/True/SqlTable/dbo.Emp.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\34entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{044BFC63-6CBE-43A0-B946-EACC7F26C3E1}|34EntityFramework\\34EntityFramework.csproj|solutionrelative:34entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\database\\35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BAD12D5-DC1B-4550-A44C-F122E0BC46DC}|35Threading\\35Threading.csproj|solutionrelative:35threading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,77 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241224225511_AddEmployeeStoredProcedures.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Migrations\\20241224225511_AddEmployeeStoredProcedures.cs",
-              "RelativeDocumentMoniker": "34EntityFramework\\Migrations\\20241224225511_AddEmployeeStoredProcedures.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Migrations\\20241224225511_AddEmployeeStoredProcedures.cs",
-              "RelativeToolTip": "34EntityFramework\\Migrations\\20241224225511_AddEmployeeStoredProcedures.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBYAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
+              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
+              "RelativeToolTip": "35Threading\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T22:55:11.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Emp [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Test/True/SqlTable/dbo.Emp.sql",
-              "ToolTip": "dbo.Emp [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-24T22:49:45.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\DAL\\TestDbContext.cs",
-              "RelativeDocumentMoniker": "34EntityFramework\\DAL\\TestDbContext.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\DAL\\TestDbContext.cs",
-              "RelativeToolTip": "34EntityFramework\\DAL\\TestDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T15:06:09.433Z",
+              "WhenOpened": "2024-12-24T23:52:33.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Model\\Employee.cs",
-              "RelativeDocumentMoniker": "34EntityFramework\\Model\\Employee.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Model\\Employee.cs",
-              "RelativeToolTip": "34EntityFramework\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs",
+              "RelativeDocumentMoniker": "35Threading\\Form1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\35Threading\\Form1.cs [Design]",
+              "RelativeToolTip": "35Threading\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T15:00:40.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Program.cs",
-              "RelativeDocumentMoniker": "34EntityFramework\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\Program.cs",
-              "RelativeToolTip": "34EntityFramework\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:47:20.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\appsettings.json",
-              "RelativeDocumentMoniker": "34EntityFramework\\appsettings.json",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\Database\\34EntityFramework\\appsettings.json",
-              "RelativeToolTip": "34EntityFramework\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-23T15:09:21.036Z"
+              "WhenOpened": "2024-12-24T23:48:52.349Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

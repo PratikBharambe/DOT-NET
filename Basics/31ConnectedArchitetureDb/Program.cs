@@ -1,4 +1,6 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using _31ConnectedArchitetureDb.DAL;
+using _31ConnectedArchitetureDb.Model;
+using Microsoft.Data.SqlClient;
 
 namespace _31ConnectedArchitetureDb
 {
@@ -94,6 +96,76 @@ namespace _31ConnectedArchitetureDb
 
             #endregion
 
+            #endregion
+
+            #region CRUD Application with DAL Layer
+            int choice = 0;
+            DatabaseDbContext databaseDbContext = new DatabaseDbContext();
+
+            do
+            {
+                Console.WriteLine("1. Get All Employees Details.");
+                Console.WriteLine("2. Get Employees Details By ID.");
+                Console.WriteLine("3. Add New Employee Details.");
+                Console.WriteLine("4. Update Empolyee Details.");
+                Console.WriteLine("5. Delete Empolyee Details.");
+                Console.WriteLine("6. Exit");
+                Console.WriteLine("Enter Your Choice");
+                choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice) 
+
+                {
+                    //case1 to get all employees details
+                    case 1:
+                        List<Employee> emplist = databaseDbContext.getAllEmployee();
+                        if(emplist != null)
+                        emplist.ForEach(emp => Console.WriteLine($"ID : {emp.Id}, Name : {emp.Name}, Address : {emp.Address}"));
+                        else
+                            Console.WriteLine("Employee table is empty");
+                        break;
+
+                    //case2 to get employee details by id
+                    case 2:
+                        Console.WriteLine("Enter id of the employee");
+                        int id = Convert.ToInt32(Console.ReadLine());
+                        Employee emp = databaseDbContext.getEmployeeById(id);
+                        if(emp != null)
+                        {
+                            Console.WriteLine($"ID : {emp.Id}, Name : {emp.Name}, Address : {emp.Address}");
+                        }
+                           
+
+                        break;
+
+                    //case3
+                    case 3:
+
+                        break;
+
+                    //case4
+                    case 4:
+
+                        break;
+
+                    //case5
+                    case 5:
+
+                        break;
+
+                    //case 6 to terminate  execution
+                    case 6:
+                        Console.WriteLine("Thanks for Visiting...! \n Bye Bye");
+                        break;
+
+                    //default case to handel invalid choice entered by user
+                    default:
+                        Console.WriteLine("Invalid choice !!!!!");
+                        break;
+                        }
+
+            }
+            while (choice != 6);
             #endregion
 
         }
