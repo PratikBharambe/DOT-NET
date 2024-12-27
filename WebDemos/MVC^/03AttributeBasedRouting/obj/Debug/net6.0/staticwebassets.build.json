@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bdhcjL2+stjQ73dW73e9R0jcfeBwtX4SPPSHc2tROJE=",
+  "Source": "03AttributeBasedRouting",
+  "BasePath": "_content/03AttributeBasedRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

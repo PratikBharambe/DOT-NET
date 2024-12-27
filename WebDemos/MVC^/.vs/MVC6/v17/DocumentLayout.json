@@ -1,42 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\",
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|d:\\iet\\ms dot net\\webdemos\\mvc^\\mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BECE494-F9F5-4F7F-9BFC-2AB567D906B8}|MVCCoreWithMVCTemplate\\MVCCoreWithMVCTemplate.csproj|solutionrelative:mvccorewithmvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-25T04:08:09.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T04:07:53.877Z",
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
+              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
+              "RelativeToolTip": "04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T00:40:52.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "04ActionMethodReturnType\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T04:07:46.332Z",
+              "WhenOpened": "2024-12-27T00:15:06.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T04:07:44.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T04:07:38.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T04:07:34.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T04:07:27.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\appsettings.json",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\appsettings.json",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-25T04:05:20.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Program.cs",
-              "RelativeDocumentMoniker": "MVCCoreWithMVCTemplate\\Program.cs",
-              "ToolTip": "D:\\IET\\MS DOT NET\\WebDemos\\MVC^\\MVCCoreWithMVCTemplate\\Program.cs",
-              "RelativeToolTip": "MVCCoreWithMVCTemplate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Program.cs",
+              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Program.cs",
+              "RelativeToolTip": "04ActionMethodReturnType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T04:05:14.713Z",
+              "WhenOpened": "2024-12-26T23:53:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04ActionMethodReturnType\\controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\controllers\\HomeController.cs*",
+              "RelativeToolTip": "04ActionMethodReturnType\\controllers\\HomeController.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:37:00.838Z",
               "EditorCaption": ""
             }
           ]
