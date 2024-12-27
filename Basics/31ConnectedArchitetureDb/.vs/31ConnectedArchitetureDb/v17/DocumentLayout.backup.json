@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\31connectedarchiteturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\31connectedarchiteturedb\\dal\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|solutionrelative:dal\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\31connectedarchiteturedb\\model\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|solutionrelative:model\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\31connectedarchiteturedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3007BC14-B17F-4F90-892B-D797A2469814}|31ConnectedArchitetureDb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Empolyee.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\Model\\Empolyee.cs",
               "RelativeDocumentMoniker": "Model\\Empolyee.cs",
@@ -43,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DatabaseDbContext.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\DAL\\DatabaseDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\DatabaseDbContext.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\DAL\\DatabaseDbContext.cs",
               "RelativeToolTip": "DAL\\DatabaseDbContext.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowE8AAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwFQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T01:41:29.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\31ConnectedArchitetureDb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAApwHgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAApwIYAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T00:07:59.818Z",
               "EditorCaption": ""

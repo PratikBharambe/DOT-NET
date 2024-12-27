@@ -1,4 +1,5 @@
-﻿using _31ConnectedArchitetureDb.DAL;
+﻿using System.Diagnostics;
+using _31ConnectedArchitetureDb.DAL;
 using _31ConnectedArchitetureDb.Model;
 using Microsoft.Data.SqlClient;
 
@@ -131,25 +132,51 @@ namespace _31ConnectedArchitetureDb
                         int id = Convert.ToInt32(Console.ReadLine());
                         Employee emp = databaseDbContext.getEmployeeById(id);
                         if(emp != null)
-                        {
+                        
                             Console.WriteLine($"ID : {emp.Id}, Name : {emp.Name}, Address : {emp.Address}");
-                        }
-                           
-
+                        else
+                                Console.WriteLine("Employee Details not present. " );
                         break;
 
-                    //case3
+                    //case3  insert new employee details
                     case 3:
-
+                        Console.WriteLine("Enter Name of employee");
+                        string? Name = Console.ReadLine();
+                        Console.WriteLine("Enter Address of employee");
+                        string? Address = Console.ReadLine();
+                        emp = new Employee() {Name = Name, Address = Address};
+                        bool status = databaseDbContext.InsertNewEmployee(emp);
+                        if(status)
+                            Console.WriteLine("Employee details inserted Successfully");
+                        else
+                            Console.WriteLine("Employee details not inserted");
                         break;
 
-                    //case4
+                    //case4 To Update Employee Details
                     case 4:
-
+                        Console.WriteLine("Enter id of Employee");
+                        id = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("Enter name of Employee");
+                        Name = Console.ReadLine();
+                        Console.WriteLine("Enter address of Employee");
+                        Address = Console.ReadLine();
+                        emp = new Employee() { Id = id, Name = Name, Address = Address };
+                        status = databaseDbContext.InsertNewEmployee(emp);
+                        if(status)
+                            Console.WriteLine("Employee details updated  successfully");
+                        else
+                            Console.WriteLine("Employee details not updated.");
                         break;
 
-                    //case5
+                    //case5 To delete the Employee details
                     case 5:
+                        Console.WriteLine("Enter id of the employee : ");
+                        id = Convert.ToInt32(Console.ReadLine());
+                        status = databaseDbContext.deleteEmployee(id);
+                        if (status)
+                            Console.WriteLine("Employee deatils deleted successfully.");
+                        else
+                            Console.WriteLine("Employee details not deleted.");
 
                         break;
 

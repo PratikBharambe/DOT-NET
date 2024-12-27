@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\views\\usercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\views\\usercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\basics\\mvc_asp.net\\03atributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1770D629-7C18-445B-A781-2CEF37EEA669}|03AtributeBasedRouting\\03AtributeBasedRouting.csproj|solutionrelative:03atributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "03AtributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:46:56.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\UserController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Views\\UserController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\UserController1\\Index.cshtml",
+              "RelativeToolTip": "03AtributeBasedRouting\\Views\\UserController1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:31:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "03AtributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:30:47.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Controllers\\UserController1.cs",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Controllers\\UserController1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Controllers\\UserController1.cs",
+              "RelativeToolTip": "03AtributeBasedRouting\\Controllers\\UserController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:29:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "03AtributeBasedRouting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:29:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Program.cs",
+              "RelativeDocumentMoniker": "03AtributeBasedRouting\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\Basics\\MVC_Asp.Net\\03AtributeBasedRouting\\Program.cs",
+              "RelativeToolTip": "03AtributeBasedRouting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:28:25.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
