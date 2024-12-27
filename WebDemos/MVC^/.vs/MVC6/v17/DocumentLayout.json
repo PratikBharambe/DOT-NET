@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\04actionmethodreturntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{567DDBDD-8D93-4E9F-9046-6F807642D537}|04ActionMethodReturnType\\04ActionMethodReturnType.csproj|solutionrelative:04actionmethodreturntype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetData.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
-              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
-              "RelativeToolTip": "04ActionMethodReturnType\\Views\\Home\\GetData.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T00:40:52.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "04ActionMethodReturnType\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T00:15:06.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Program.cs",
-              "RelativeDocumentMoniker": "04ActionMethodReturnType\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\Program.cs",
-              "RelativeToolTip": "04ActionMethodReturnType\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:53:01.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "04ActionMethodReturnType\\controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\04ActionMethodReturnType\\controllers\\HomeController.cs*",
-              "RelativeToolTip": "04ActionMethodReturnType\\controllers\\HomeController.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:37:00.838Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\05ViewBagViewData.props" />
+</Project>
