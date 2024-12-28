@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index View from Home Controller</h1>
+
+@foreach(var item in Model)
+{
+    @if(item is Emp){
+        <p>Employee Deatils</p>
+        var emp = item as Emp;
+        <p>Id : @emp.Id</p>
+        <p>Name : @emp.Name</p>
+        <p>Address : @emp.Address</p>
+    }
+    <hr />
+    <hr />
+    @if(item is Cust){
+        <p>Customer Deatils</p>
+        var cust = item as Cust;
+        <p>Id : @cust.Id</p>
+        <p>Name : @cust.Name</p>
+        <p>Address : @cust.Address</p>
+    }
+
+}
