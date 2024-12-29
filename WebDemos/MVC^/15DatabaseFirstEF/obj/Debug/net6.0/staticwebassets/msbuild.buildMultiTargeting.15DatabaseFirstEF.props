@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\15DatabaseFirstEF.props" />
+</Project>

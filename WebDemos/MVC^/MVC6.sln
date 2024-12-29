@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13ConnectedMVC", "13Connect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14CodeFirstEntityFramework", "14CodeFirstEntityFramework\14CodeFirstEntityFramework.csproj", "{6709B18A-060F-4545-8054-35552C4AC31C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15DatabaseFirstEF", "15DatabaseFirstEF\15DatabaseFirstEF.csproj", "{FA31097F-10FA-4291-B566-FC7382B450AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6709B18A-060F-4545-8054-35552C4AC31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6709B18A-060F-4545-8054-35552C4AC31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6709B18A-060F-4545-8054-35552C4AC31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA31097F-10FA-4291-B566-FC7382B450AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA31097F-10FA-4291-B566-FC7382B450AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA31097F-10FA-4291-B566-FC7382B450AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA31097F-10FA-4291-B566-FC7382B450AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
