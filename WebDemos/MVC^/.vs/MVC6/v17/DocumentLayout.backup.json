@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\",
+  "WorkspaceRootPath": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\15databasefirstef\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|solutionrelative:15databasefirstef\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\15databasefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|solutionrelative:15databasefirstef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\15databasefirstef\\models\\hellocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|solutionrelative:15databasefirstef\\models\\hellocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|c:\\users\\iet\\desktop\\ms dot net lab\\webdemos\\mvc^\\15databasefirstef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA31097F-10FA-4291-B566-FC7382B450AD}|15DatabaseFirstEF\\15DatabaseFirstEF.csproj|solutionrelative:15databasefirstef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|d:\\iet\\dot net\\webdemos\\mvc^\\16loginlogoutsessions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50969CE-05B8-43AD-8294-35A446ACE0DE}|16LoginLogoutSessions\\16LoginLogoutSessions.csproj|solutionrelative:16loginlogoutsessions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpController.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Controllers\\EmpController.cs",
-              "RelativeDocumentMoniker": "15DatabaseFirstEF\\Controllers\\EmpController.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Controllers\\EmpController.cs",
-              "RelativeToolTip": "15DatabaseFirstEF\\Controllers\\EmpController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T02:24:42.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Program.cs",
-              "RelativeDocumentMoniker": "15DatabaseFirstEF\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Program.cs",
-              "RelativeToolTip": "15DatabaseFirstEF\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Program.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Program.cs",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Program.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T02:22:53.865Z",
+              "WhenOpened": "2024-12-29T06:06:30.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\appsettings.json",
-              "RelativeDocumentMoniker": "15DatabaseFirstEF\\appsettings.json",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\appsettings.json",
-              "RelativeToolTip": "15DatabaseFirstEF\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-29T02:22:12.67Z",
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "16LoginLogoutSessions\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T05:59:57.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:39:24.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HelloContext.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Models\\HelloContext.cs",
-              "RelativeDocumentMoniker": "15DatabaseFirstEF\\Models\\HelloContext.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\15DatabaseFirstEF\\Models\\HelloContext.cs",
-              "RelativeToolTip": "15DatabaseFirstEF\\Models\\HelloContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowBoAAAALAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "16LoginLogoutSessions\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T05:35:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Models\\User.cs",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Models\\User.cs",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Models\\User.cs",
+              "RelativeToolTip": "16LoginLogoutSessions\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T02:21:32.043Z",
+              "WhenOpened": "2024-12-29T05:30:44.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "16LoginLogoutSessions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\16LoginLogoutSessions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "16LoginLogoutSessions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T05:23:44.064Z",
               "EditorCaption": ""
             }
           ]
