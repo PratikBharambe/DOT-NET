@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15DatabaseFirstEF", "15Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16LoginLogoutSessions", "16LoginLogoutSessions\16LoginLogoutSessions.csproj", "{E50969CE-05B8-43AD-8294-35A446ACE0DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17WebApi", "17WebApi\17WebApi.csproj", "{F7764B73-8D34-4F29-A4A9-4D032D930739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{E50969CE-05B8-43AD-8294-35A446ACE0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50969CE-05B8-43AD-8294-35A446ACE0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50969CE-05B8-43AD-8294-35A446ACE0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7764B73-8D34-4F29-A4A9-4D032D930739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7764B73-8D34-4F29-A4A9-4D032D930739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7764B73-8D34-4F29-A4A9-4D032D930739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7764B73-8D34-4F29-A4A9-4D032D930739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
