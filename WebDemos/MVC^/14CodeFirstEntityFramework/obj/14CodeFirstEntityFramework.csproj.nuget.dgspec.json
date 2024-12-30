@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IET\\Dot Net\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj": {}
+    "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj": {}
   },
   "projects": {
-    "D:\\IET\\Dot Net\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj": {
+    "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj",
         "projectName": "14CodeFirstEntityFramework",
-        "projectPath": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj",
-        "packagesPath": "C:\\Users\\ghans\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\14CodeFirstEntityFramework.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\MS DOT NET Lab\\WebDemos\\MVC^\\14CodeFirstEntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ghans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

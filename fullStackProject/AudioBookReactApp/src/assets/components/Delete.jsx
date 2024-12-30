@@ -29,7 +29,7 @@ function Delete() {
   return (
     <div className="container mt-4">
       <div className="text-center mb-4">
-        <h1>Audio Book Details</h1>
+        <h1>Confirm Book To Delete</h1>
         <hr />
       </div>
       <div className="card shadow-lg p-4 mb-4">

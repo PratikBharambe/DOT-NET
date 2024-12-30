@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from "react";
 import AudioBookServices from "../services/AudioBookServices";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 function AllBooks() {
   const [audioBooks, setAudioBooks] = useState([]);
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetchData();
@@ -14,8 +16,8 @@ function AllBooks() {
       .then((result) => {
         setAudioBooks(result.data);
       })
-      .catch((err) => {
-        console.error(err);
+      .catch(() => {
+        navigate("/");
       });
   };
 

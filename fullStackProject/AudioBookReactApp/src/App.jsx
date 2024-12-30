@@ -5,12 +5,14 @@ import Details from "./assets/components/Details";
 import Edit from "./assets/components/Edit";
 import Delete from "./assets/components/Delete";
 import "./App.css";
+import LoginPage from "./assets/components/LoginPage";
 
 function App() {
   return (
     <>
       <BrowserRouter>
         <Routes>
+          <Route path="/" element={<LoginPage />}></Route>
           <Route path="/all" element={<AllBooks />}></Route>
           <Route path="/add" element={<AddNewBook />}></Route>
           <Route path="/edit/:id" element={<Edit />}></Route>

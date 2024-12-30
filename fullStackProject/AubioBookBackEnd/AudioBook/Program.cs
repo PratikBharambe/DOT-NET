@@ -1,5 +1,6 @@
 using AudioBook.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 namespace AudioBook
 {
@@ -16,9 +17,21 @@ namespace AudioBook
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddDistributedMemoryCache();
+
+            builder.Services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" }); });
+
             builder.Services.AddDbContext<AudioBookContext>(
                 options => options.UseSqlServer("name=conStr")
                 );
+
+            builder.Services.AddSession();
+            //builder.Services.AddSession(options =>
+            //{
+            //    options.IdleTimeout = TimeSpan.FromMinutes(30); // Set session timeout
+            //    options.Cookie.HttpOnly = true;
+            //    options.Cookie.IsEssential = true;
+            //});
 
             var app = builder.Build();
 
@@ -29,12 +42,14 @@ namespace AudioBook
                 app.UseSwaggerUI();
             }
 
-            app.UseCors((policyBuilder) => {
+            app.UseCors((policyBuilder) =>
+            {
                 policyBuilder.WithOrigins("*").WithHeaders("*").WithMethods("*");
             });
 
             app.UseAuthorization();
 
+            app.UseSession();
 
             app.MapControllers();
 

@@ -15,25 +15,34 @@ namespace AudioBook.Controllers
             _context = context;
         }
 
+
         // GET: api/Book
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
         {
-          if (_context.Books == null)
-          {
-              return NotFound();
-          }
-            return await _context.Books.ToListAsync();
+            var str = HttpContext.Session.GetString("username");
+            if (HttpContext.Session.GetString("username") != null)
+            {
+                if (_context.Books == null)
+                {
+                    return NotFound();
+                }
+                return await _context.Books.ToListAsync();
+            }
+            else
+            {
+                return NotFound("404");
+            }
         }
 
         // GET: api/Book/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Book>> GetBook(int id)
         {
-          if (_context.Books == null)
-          {
-              return NotFound();
-          }
+            if (_context.Books == null)
+            {
+                return NotFound();
+            }
             var book = await _context.Books.FindAsync(id);
 
             if (book == null)
@@ -80,10 +89,10 @@ namespace AudioBook.Controllers
         [HttpPost]
         public async Task<ActionResult<Book>> PostBook(Book book)
         {
-          if (_context.Books == null)
-          {
-              return Problem("Entity set 'AudioBookContext.Books'  is null.");
-          }
+            if (_context.Books == null)
+            {
+                return Problem("Entity set 'AudioBookContext.Books'  is null.");
+            }
             _context.Books.Add(book);
             await _context.SaveChangesAsync();
 

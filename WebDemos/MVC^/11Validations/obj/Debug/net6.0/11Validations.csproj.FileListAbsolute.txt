@@ -33,3 +33,37 @@ D:\IET\Dot Net\WebDemos\MVC^\11Validations\obj\Debug\net6.0\refint\11Validations
 D:\IET\Dot Net\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.pdb
 D:\IET\Dot Net\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.genruntimeconfig.cache
 D:\IET\Dot Net\WebDemos\MVC^\11Validations\obj\Debug\net6.0\ref\11Validations.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\appsettings.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.staticwebassets.runtime.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.staticwebassets.endpoints.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.exe
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.deps.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.runtimeconfig.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\bin\Debug\net6.0\11Validations.pdb
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.AssemblyInfo.cs
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.RazorAssemblyInfo.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.RazorAssemblyInfo.cs
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\scopedcss\bundle\11Validations.styles.css
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\scopedcss\projectbundle\11Validations.bundle.scp.css
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets\msbuild.11Validations.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets\msbuild.11Validations.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets\msbuild.build.11Validations.props
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.11Validations.props
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.11Validations.props
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\refint\11Validations.dll
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.pdb
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\11Validations.genruntimeconfig.cache
+C:\Users\IET\Desktop\MS DOT NET Lab\WebDemos\MVC^\11Validations\obj\Debug\net6.0\ref\11Validations.dll
