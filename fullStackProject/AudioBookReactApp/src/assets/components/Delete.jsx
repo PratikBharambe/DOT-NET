@@ -22,7 +22,7 @@ function Delete() {
     console.log(param.id);
     AudioBookServices.deleteBook(param.id).then((result) => {
       console.log(result);
-      navigate("/");
+      navigate("/all");
     });
   };
 
@@ -52,6 +52,12 @@ function Delete() {
             <button className="btn btn-danger">Confirm Delete</button>
           </div>
         </form>
+        <div>
+          <br />
+          <a href="/all" className="btn btn-outline-primary">
+            Back To List
+          </a>
+        </div>
       </div>
     </div>
   );

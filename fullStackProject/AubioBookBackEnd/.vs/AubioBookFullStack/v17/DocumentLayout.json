@@ -75,8 +75,7 @@
               "RelativeToolTip": "AudioBook\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T10:48:59.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T10:48:59.706Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "AudioBook\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T10:17:46.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T10:17:46.952Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "AudioBook\\Models\\AudioBookContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T10:16:23.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T10:16:23.341Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "AudioBook\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T10:14:00.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T10:14:00.383Z"
             }
           ]
         }

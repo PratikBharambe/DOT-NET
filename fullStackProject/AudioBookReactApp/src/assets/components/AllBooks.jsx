@@ -26,7 +26,9 @@ function AllBooks() {
         <hr />
       </div>
       <div className="mb-3">
-        <a href="/add" className="btn btn-primary m-2">Add New Book</a>
+        <a href="/add" className="btn btn-primary m-2">
+          Add New Book
+        </a>
       </div>
       <div className="m-2 p-3">
         <table className="table table-bordered table-hover">
@@ -47,13 +49,19 @@ function AllBooks() {
                 <td>{book.author}</td>
                 <td>{book.narrator}</td>
                 <td>
-                  <Link to={`/edit/${book.id}`}><button className="btn btn-outline-primary">Edit</button></Link>
+                  <Link to={`/edit/${book.id}`}>
+                    <button className="btn btn-outline-primary">Edit</button>
+                  </Link>
                 </td>
                 <td>
-                  <Link to={`/delete/${book.id}`}><button className="btn btn-outline-danger">Delete</button></Link>
+                  <Link to={`/delete/${book.id}`}>
+                    <button className="btn btn-outline-danger">Delete</button>
+                  </Link>
                 </td>
                 <td>
-                  <Link to={`/details/${book.id}`}><button className="btn btn-outline-success">Details</button></Link>
+                  <Link to={`/details/${book.id}`}>
+                    <button className="btn btn-outline-success">Details</button>
+                  </Link>
                 </td>
               </tr>
             ))}
