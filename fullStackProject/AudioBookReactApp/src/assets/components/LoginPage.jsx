@@ -13,16 +13,18 @@ function LoginPage() {
     e.preventDefault();
     let user = { Username: Username, Password: Password };
     if (user != null) {
-        UserService.authenticateUser(user).then((result) => {
-            if(result.status == 200){
-              console.log(result.data);
-                navigate("/all");
-            }
-        }).catch(() => {
-            setloginFailedMessage("Wrong Credentials. Check Username & Password");
+      UserService.authenticateUser(user)
+        .then((result) => {
+          if (result.status == 200) {
+            console.log(result.data);
+            navigate("/all");
+          }
+        })
+        .catch(() => {
+          setloginFailedMessage("Wrong Credentials. Check Username & Password");
         });
     } else {
-        console.log("Please fill all nescessasy information");
+      console.log("Please fill all nescessasy information");
     }
   };
 
@@ -35,7 +37,7 @@ function LoginPage() {
               <div className="card-body">
                 <h1 className="card-title text-center">Login Page</h1>
                 <div>
-                    <p className="text-danger">{loginFailedMessage}</p>
+                  <p className="text-danger">{loginFailedMessage}</p>
                   <hr />
                 </div>
                 <form onSubmit={validate} method="post">
@@ -65,9 +67,14 @@ function LoginPage() {
                       onChange={(e) => setPassword(e.target.value)}
                     />
                   </div>
-                  <button type="submit" className="btn btn-primary btn-block">
-                    Login
-                  </button>
+                  <div className="d-flex align-items-center justify-content-between">
+                    <div>
+                      <button type="submit" className="btn btn-primary btn-block">Login</button>
+                    </div>
+                    <div>
+                      New Here? &nbsp;&nbsp;<a className="link-underline-opacity-0-hover" href="/register">Register</a>
+                    </div>
+                  </div>
                 </form>
               </div>
             </div>
