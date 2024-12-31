@@ -6,7 +6,8 @@ namespace _01DatabaseConnectedArch
     {
         static void Main(string[] args)
         {
-            string conStr = "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=AudioBook;Integrated Security=True";
+            #region Normal Flow
+            //string conStr = "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=AudioBook;Integrated Security=True";
 
             #region Select Query
             //SqlConnection con = new SqlConnection(conStr);
@@ -82,6 +83,10 @@ namespace _01DatabaseConnectedArch
             //else
             //    Console.WriteLine("Error in audio book deletion.");
             #endregion
+
+            #endregion
+
+            
 
         }
     }
