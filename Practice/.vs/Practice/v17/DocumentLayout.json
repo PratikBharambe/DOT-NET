@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\dal\\audiobookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\dal\\audiobookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
               "RelativeDocumentMoniker": "01DatabaseConnectedArch\\Program.cs",
               "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
               "RelativeToolTip": "01DatabaseConnectedArch\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAewH0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T14:09:44.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AudioBookDbContext.cs",
               "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
               "RelativeDocumentMoniker": "01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
               "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
               "RelativeToolTip": "01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAuwD0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T14:09:18.903Z",
               "EditorCaption": ""
@@ -60,12 +64,7 @@
               "RelativeToolTip": "01DatabaseConnectedArch\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:07:37.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-12-31T14:07:37.104Z"
             }
           ]
         }
