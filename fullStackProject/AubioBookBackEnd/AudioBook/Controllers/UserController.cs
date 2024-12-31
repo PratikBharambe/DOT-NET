@@ -32,7 +32,6 @@ namespace AudioBook.Controllers
             }
             else
             {
-                HttpContext.Session.SetString("username", validatedUser.Username);
                 return Ok(validatedUser);
             }
         }
