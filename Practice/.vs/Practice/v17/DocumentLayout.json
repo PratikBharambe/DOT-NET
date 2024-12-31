@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\dal\\audiobookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\dal\\audiobookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9875975-C888-4DA1-8181-A89891A17235}|02DatabaseDisconnectedArchitechture\\02DatabaseDisconnectedArchitechture.csproj|d:\\iet\\ms dot net\\practice\\02databasedisconnectedarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9875975-C888-4DA1-8181-A89891A17235}|02DatabaseDisconnectedArchitechture\\02DatabaseDisconnectedArchitechture.csproj|solutionrelative:02databasedisconnectedarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
-              "RelativeDocumentMoniker": "01DatabaseConnectedArch\\Program.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
-              "RelativeToolTip": "01DatabaseConnectedArch\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAewH0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:09:44.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AudioBookDbContext.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
-              "RelativeDocumentMoniker": "01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
-              "RelativeToolTip": "01DatabaseConnectedArch\\DAL\\AudioBookDbContext.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEgAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\02DatabaseDisconnectedArchitechture\\Program.cs",
+              "RelativeDocumentMoniker": "02DatabaseDisconnectedArchitechture\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\02DatabaseDisconnectedArchitechture\\Program.cs",
+              "RelativeToolTip": "02DatabaseDisconnectedArchitechture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:09:18.903Z",
+              "WhenOpened": "2024-12-31T15:22:06.013Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "01DatabaseConnectedArch\\Models\\Book.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Models\\Book.cs",
-              "RelativeToolTip": "01DatabaseConnectedArch\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:07:37.104Z"
             }
           ]
         }
