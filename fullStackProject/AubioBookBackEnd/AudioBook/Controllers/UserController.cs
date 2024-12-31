@@ -1,5 +1,4 @@
 ﻿using AudioBook.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -35,6 +34,19 @@ namespace AudioBook.Controllers
                 return Ok(validatedUser);
             }
         }
+
+        //[HttpPost]
+        //public async Task<ActionResult<User>> PostUser(User user)
+        //{
+        //    if (_context.Users == null)
+        //    {
+        //        return Problem("Entity set 'AudioBookContext.Users'  is null.");
+        //    }
+        //    _context.Users.Add(user);
+        //    await _context.SaveChangesAsync();
+
+        //    return CreatedAtAction("GetUser", new { id = user.Id }, user);
+        //}
 
     }
 }

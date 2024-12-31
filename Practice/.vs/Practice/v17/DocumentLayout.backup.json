@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|d:\\iet\\ms dot net\\practice\\01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C8664F-1A79-41AB-A617-88E65F486D0A}|01DatabaseConnectedArch\\01DatabaseConnectedArch.csproj|solutionrelative:01databaseconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AudioBook/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AudioBook/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-31T12:52:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
+              "RelativeDocumentMoniker": "01DatabaseConnectedArch\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\01DatabaseConnectedArch\\Program.cs",
+              "RelativeToolTip": "01DatabaseConnectedArch\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T12:51:21.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
