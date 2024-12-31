@@ -46,6 +46,43 @@ namespace _01DatabaseConnectedArch
             //    Console.WriteLine("Error in audio book insertion.");
             #endregion
 
+            #region update Query
+            //Console.WriteLine("Enter Id of the Book : ");
+            //int id = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter New Book Name : ");
+            //string? name = Console.ReadLine();
+            //Console.WriteLine("Enter New Book Author : ");
+            //string? auther = Console.ReadLine();
+            //Console.WriteLine("Enter New Book Narrator : ");
+            //string? narrator = Console.ReadLine();
+
+            //string updateQuery = $"update Books set Name = '{name}', Author = '{auther}', Narrator = '{narrator}' where Id = {id}";
+            //SqlConnection con = new SqlConnection(conStr);
+            //SqlCommand cmd = new SqlCommand(updateQuery, con);
+            //con.Open();
+            //int n = cmd.ExecuteNonQuery();
+            //con.Close();
+            //if(n > 0)
+            //    Console.WriteLine("Audio Book Updated successfully.");
+            //else
+            //    Console.WriteLine("Error in audio book updation.");
+            #endregion
+
+            #region Delete Query
+            //Console.WriteLine("Enter Id of the Book : ");
+            //int id = Convert.ToInt32(Console.ReadLine());
+            //SqlConnection con = new SqlConnection(conStr);
+            //string deleteQuery = $"delete from Books where Id = {id}";
+            //SqlCommand cmd = new SqlCommand(deleteQuery, con);
+            //con.Open();
+            //int data = cmd.ExecuteNonQuery();
+            //con.Close();
+            //if(data > 0 )
+            //    Console.WriteLine("Audio Book Deleted Successsfully.");
+            //else
+            //    Console.WriteLine("Error in audio book deletion.");
+            #endregion
+
         }
     }
 }

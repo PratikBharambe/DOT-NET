@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01DatabaseConnectedArch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a3a34b96000dabb7ce4b55e1c0f46688b58725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51752443ab7b186c58ae8f87a9bcd25d6c67a524")]
 [assembly: System.Reflection.AssemblyProductAttribute("01DatabaseConnectedArch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01DatabaseConnectedArch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
