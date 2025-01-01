@@ -19,5 +19,10 @@ namespace _06EEntityFrameworkCodeFirst.Controllers
             List<Movies> movies = _dbContext.Movies.ToList();
             return View(movies);
         }
+
+        public IActionResult Add()
+        {
+            return View();
+        }
     }
 }
