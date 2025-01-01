@@ -3,11 +3,16 @@
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9875975-C888-4DA1-8181-A89891A17235}|02DatabaseDisconnectedArchitechture\\02DatabaseDisconnectedArchitechture.csproj|d:\\iet\\ms dot net\\practice\\02databasedisconnectedarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9875975-C888-4DA1-8181-A89891A17235}|02DatabaseDisconnectedArchitechture\\02DatabaseDisconnectedArchitechture.csproj|solutionrelative:02databasedisconnectedarchitechture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AudioBook/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\models\\audiobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\models\\audiobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,25 +30,40 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioBooks.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
+              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
+              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:32:11.92Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Books [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/AudioBook/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-01T01:27:49.156Z",
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
+              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T03:31:27.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\02DatabaseDisconnectedArchitechture\\Program.cs",
-              "RelativeDocumentMoniker": "02DatabaseDisconnectedArchitechture\\Program.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\02DatabaseDisconnectedArchitechture\\Program.cs",
-              "RelativeToolTip": "02DatabaseDisconnectedArchitechture\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE8AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Program.cs",
+              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:22:06.013Z",
+              "WhenOpened": "2025-01-01T03:19:18.895Z",
               "EditorCaption": ""
             }
           ]

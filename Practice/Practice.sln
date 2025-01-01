@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01DatabaseConnectedArch", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DatabaseDisconnectedArchitechture", "02DatabaseDisconnectedArchitechture\02DatabaseDisconnectedArchitechture.csproj", "{E9875975-C888-4DA1-8181-A89891A17235}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EnitiyFramworkCodeFirst", "03EnitiyFramworkCodeFirst\03EnitiyFramworkCodeFirst.csproj", "{61820E04-456D-4ADF-B338-0E75A0E3A1A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E9875975-C888-4DA1-8181-A89891A17235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9875975-C888-4DA1-8181-A89891A17235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9875975-C888-4DA1-8181-A89891A17235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
