@@ -1,0 +1,51 @@
+﻿@model IEnumerable<_06EEntityFrameworkCodeFirst.Models.Movies>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="~/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+<h1 class="m-5 p-3">List of all movies</h1>
+
+<div class="m-5 p-3">
+
+    <div>
+        <a href="Home/Add" class="btn btn-primary">Add New Movie</a>
+    </div>
+
+    <table class="table table-bordered table-responsive">
+
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>name</th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var m in Model){
+                <tr>
+                    <td>@m.Id</td>
+                    <td>@m.Name</td>
+                    <td>
+                        <a href = "#" class="btn btn-outline-primary">Edit</a>
+                    </td>
+                    <td>
+                        <a href = "#" class="btn btn-outline-danger">Delete</a>
+                    </td>
+                    <td>
+                        <a href = "#" class="btn btn-outline-success">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+</div>
+
+<script src="~/twitter-bootstrap/js/bootstrap.min.js"></script>

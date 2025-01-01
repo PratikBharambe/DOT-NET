@@ -8,35 +8,39 @@
 
 <h1>All Employees Details</h1>
 
-<table class="table table-responsive table-bordered">
-    <thead>
-        <tr>
-            <th>Id</th>
-            <th>Name</th>
-            <th>Address</th>
-            <td colspan="3"></td>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach(var emp in Model){
+<div class="m-3 p-3">
 
+    <table class="table table-responsive table-bordered">
+        <thead>
             <tr>
-                <td>@emp.Id</td>
-                <td>@emp.Name</td>
-                <td>@emp.Address</td>
-                <td>
-                    <a href="/Home/Edit/@emp.Id" class="btn btn-outline-primary">Edit</a>
-                </td>
-                <td>
-                    <a href="/Home/Details/@emp.Id" class="btn btn-outline-success">Details</a>
-                </td>
-                <td>
-                    <a href="/Home/Delete/@emp.Id" class="btn btn-outline-danger">Delete</a>
-                </td>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Address</th>
+                <td colspan="3"></td>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var emp in Model)
+            {
 
+                <tr>
+                    <td>@emp.Id</td>
+                    <td>@emp.Name</td>
+                    <td>@emp.Address</td>
+                    <td>
+                        <a href="/Home/Edit/@emp.Id" class="btn btn-outline-primary">Edit</a>
+                    </td>
+                    <td>
+                        <a href="/Home/Details/@emp.Id" class="btn btn-outline-success">Details</a>
+                    </td>
+                    <td>
+                        <a href="/Home/Delete/@emp.Id" class="btn btn-outline-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
 
 <script src="~/bootstrap/js/bootstrap.min.js"></script>

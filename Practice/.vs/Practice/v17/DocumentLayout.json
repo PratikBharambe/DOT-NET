@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\06eentityframeworkcodefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|solutionrelative:06eentityframeworkcodefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\06eentityframeworkcodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|solutionrelative:06eentityframeworkcodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\06eentityframeworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|solutionrelative:06eentityframeworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\06eentityframeworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|solutionrelative:06eentityframeworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\06eentityframeworkcodefirst\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D8080-FA07-4D0F-AA5A-73C235BF32DB}|06EEntityFrameworkCodeFirst\\06EEntityFrameworkCodeFirst.csproj|solutionrelative:06eentityframeworkcodefirst\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "06EEntityFrameworkCodeFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "06EEntityFrameworkCodeFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T08:47:39.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "06EEntityFrameworkCodeFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "06EEntityFrameworkCodeFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:45:37.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "06EEntityFrameworkCodeFirst\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Program.cs",
+              "RelativeToolTip": "06EEntityFrameworkCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:40:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDbContext.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\DAL\\TestDbContext.cs",
+              "RelativeDocumentMoniker": "06EEntityFrameworkCodeFirst\\DAL\\TestDbContext.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\DAL\\TestDbContext.cs",
+              "RelativeToolTip": "06EEntityFrameworkCodeFirst\\DAL\\TestDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:39:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "06EEntityFrameworkCodeFirst\\Models\\Movies.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\06EEntityFrameworkCodeFirst\\Models\\Movies.cs",
+              "RelativeToolTip": "06EEntityFrameworkCodeFirst\\Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:35:50.813Z",
+              "EditorCaption": ""
             }
           ]
         }

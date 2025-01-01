@@ -8,6 +8,8 @@ namespace _05EntityConnectedWithViews
             builder.Services.AddControllersWithViews();
             var app = builder.Build();
 
+            app.UseStaticFiles();
+
             //app.MapGet("/", () => "Hello World!");
             app.MapControllerRoute(
                 name : "Default",
