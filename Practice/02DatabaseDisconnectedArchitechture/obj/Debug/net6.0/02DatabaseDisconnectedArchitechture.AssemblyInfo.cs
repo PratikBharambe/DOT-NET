@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02DatabaseDisconnectedArchitechture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e877fc6b1dbefc60ad415d22e2c26b450e444f5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c33800eb2a52412d69cb9d816e5a90da4b84222e")]
 [assembly: System.Reflection.AssemblyProductAttribute("02DatabaseDisconnectedArchitechture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02DatabaseDisconnectedArchitechture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
