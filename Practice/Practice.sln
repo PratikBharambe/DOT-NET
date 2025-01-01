@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DatabaseDisconnectedArchi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03EnitiyFramworkCodeFirst", "03EnitiyFramworkCodeFirst\03EnitiyFramworkCodeFirst.csproj", "{61820E04-456D-4ADF-B338-0E75A0E3A1A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EntityFrameworkDatabaseFirstApproach", "04EntityFrameworkDatabaseFirstApproach\04EntityFrameworkDatabaseFirstApproach.csproj", "{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61820E04-456D-4ADF-B338-0E75A0E3A1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

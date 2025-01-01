@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|d:\\iet\\ms dot net\\practice\\04entityframeworkdatabasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|solutionrelative:04entityframeworkdatabasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\dal\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|d:\\iet\\ms dot net\\practice\\04entityframeworkdatabasefirstapproach\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|solutionrelative:04entityframeworkdatabasefirstapproach\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|d:\\iet\\ms dot net\\practice\\03enitiyframworkcodefirst\\models\\audiobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61820E04-456D-4ADF-B338-0E75A0E3A1A5}|03EnitiyFramworkCodeFirst\\03EnitiyFramworkCodeFirst.csproj|solutionrelative:03enitiyframworkcodefirst\\models\\audiobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|d:\\iet\\ms dot net\\practice\\04entityframeworkdatabasefirstapproach\\models\\audiobookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|solutionrelative:04entityframeworkdatabasefirstapproach\\models\\audiobookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|d:\\iet\\ms dot net\\practice\\04entityframeworkdatabasefirstapproach\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C95A62F-E37E-4CB8-8551-FE7D4CD61550}|04EntityFrameworkDatabaseFirstApproach\\04EntityFrameworkDatabaseFirstApproach.csproj|solutionrelative:04entityframeworkdatabasefirstapproach\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +26,62 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\User.cs",
+              "RelativeDocumentMoniker": "04EntityFrameworkDatabaseFirstApproach\\Models\\User.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\User.cs",
+              "RelativeToolTip": "04EntityFrameworkDatabaseFirstApproach\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:58:35.836Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AudioBooks.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
-              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
-              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\Models\\AudioBooks.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "04EntityFrameworkDatabaseFirstApproach\\Models\\Book.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\Book.cs",
+              "RelativeToolTip": "04EntityFrameworkDatabaseFirstApproach\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T03:32:11.92Z"
+              "WhenOpened": "2025-01-01T04:58:33.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestDbContext.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
-              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
-              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\DAL\\TestDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AudioBookContext.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\AudioBookContext.cs",
+              "RelativeDocumentMoniker": "04EntityFrameworkDatabaseFirstApproach\\Models\\AudioBookContext.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Models\\AudioBookContext.cs",
+              "RelativeToolTip": "04EntityFrameworkDatabaseFirstApproach\\Models\\AudioBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T03:31:27.147Z",
+              "WhenOpened": "2025-01-01T04:57:31.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Program.cs",
-              "RelativeDocumentMoniker": "03EnitiyFramworkCodeFirst\\Program.cs",
-              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\03EnitiyFramworkCodeFirst\\Program.cs",
-              "RelativeToolTip": "03EnitiyFramworkCodeFirst\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "04EntityFrameworkDatabaseFirstApproach\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\04EntityFrameworkDatabaseFirstApproach\\Program.cs",
+              "RelativeToolTip": "04EntityFrameworkDatabaseFirstApproach\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T03:19:18.895Z",
+              "WhenOpened": "2025-01-01T04:53:31.385Z",
               "EditorCaption": ""
             }
           ]
