@@ -1,0 +1,42 @@
+﻿@model IEnumerable<_05EntityConnectedWithViews.Models.Emp>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+<h1>All Employees Details</h1>
+
+<table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <td colspan="3"></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var emp in Model){
+
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Address</td>
+                <td>
+                    <a href="/Home/Edit/@emp.Id" class="btn btn-outline-primary">Edit</a>
+                </td>
+                <td>
+                    <a href="/Home/Details/@emp.Id" class="btn btn-outline-success">Details</a>
+                </td>
+                <td>
+                    <a href="/Home/Delete/@emp.Id" class="btn btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<script src="~/bootstrap/js/bootstrap.min.js"></script>

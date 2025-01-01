@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IET\\MS Dot net\\Practice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|d:\\iet\\ms dot net\\practice\\05entityconnectedwithviews\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|solutionrelative:05entityconnectedwithviews\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|d:\\iet\\ms dot net\\practice\\05entityconnectedwithviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|solutionrelative:05entityconnectedwithviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|d:\\iet\\ms dot net\\practice\\05entityconnectedwithviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|solutionrelative:05entityconnectedwithviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|d:\\iet\\ms dot net\\practice\\05entityconnectedwithviews\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|solutionrelative:05entityconnectedwithviews\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|d:\\iet\\ms dot net\\practice\\05entityconnectedwithviews\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E335BC13-F941-4416-99AD-467CF736A9C2}|05EntityConnectedWithViews\\05EntityConnectedWithViews.csproj|solutionrelative:05entityconnectedwithviews\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\libman.json",
+              "RelativeDocumentMoniker": "05EntityConnectedWithViews\\libman.json",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\libman.json",
+              "RelativeToolTip": "05EntityConnectedWithViews\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T06:31:48.308Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "05EntityConnectedWithViews\\Models\\Emp.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Models\\Emp.cs",
+              "RelativeToolTip": "05EntityConnectedWithViews\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:06:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "05EntityConnectedWithViews\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "05EntityConnectedWithViews\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T05:57:20.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "05EntityConnectedWithViews\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "05EntityConnectedWithViews\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:56:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Program.cs",
+              "RelativeDocumentMoniker": "05EntityConnectedWithViews\\Program.cs",
+              "ToolTip": "D:\\IET\\MS Dot net\\Practice\\05EntityConnectedWithViews\\Program.cs",
+              "RelativeToolTip": "05EntityConnectedWithViews\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:54:20.343Z",
+              "EditorCaption": ""
             }
           ]
         }
